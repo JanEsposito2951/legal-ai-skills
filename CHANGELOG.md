@@ -51,3 +51,4 @@
 - docs: link the usage section
 - fix: clarify the setup steps
 - fix: clarify the setup steps
+- fix: add a note about the defaults
